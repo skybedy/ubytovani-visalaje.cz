@@ -1,0 +1,216 @@
+* {
+	font-family: Trebuchet MS, Trebuchet, "Arial CE", Arial, "Verdana CE", Verdana,  "Helvetica CE", lucida, monospaced;
+}
+body {
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	background-color: White;
+	background-image: url(img/bg_bg.jpg);
+	background-repeat: repeat-x;
+	color: #3C3C3C;
+	font-size: 12px;
+}
+.bg_mid {
+	background: url(img/bg_mid.jpg) repeat-y center;
+}
+.bg_top {
+	background: url(img/bg.jpg) no-repeat top center;
+	height: 882px;
+}
+.bg_down {
+	background: url(img/bg_down.jpg) no-repeat top center;
+	height: 150px;
+	text-align: center;
+}
+.doprava {
+	text-align: right;
+}
+a.dsg {
+	text-decoration: none;
+	font-size: 12px;
+	color: #96C659;
+}
+a.dsg:hover {
+	text-decoration: underline;
+	color: #BE3515;
+}
+.design {
+	font-size: 10px;
+	text-align: right;
+}
+h1, .nadpis {
+	color: #B81818;
+	font-weight: bold;
+	font-size: 24px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	text-decoration: none;
+}
+h2.top {
+	color: #D02730;
+	font-weight: normal;
+	font-size: 28px;
+	padding-top: 10px;
+}
+h2.white {
+	color: white;
+	font-weight: bold;
+	font-size: 14px;
+}
+h2 {
+	color: #D02730;
+	font-weight: normal;
+	font-size: 20px;
+}
+h2.kateg, .nadpis2 {
+	color: #D02730;
+	font-weight: bold;
+	font-size: 14px;
+}
+h3, .nadpis3 {
+	color: #EA9018;
+	font-weight: bold;
+	font-size: 18px;
+}
+.menu {
+	font-size: 11px;
+	color: Black;
+	text-align: left;
+}
+.menu_hlavni {
+	font-size: 14px;
+	color: Black;
+	height: 50px;
+	font-weight: normal;
+}
+.mezera {
+	font-size: 12px;
+	color: Black;
+	text-decoration: none;
+	width: 20px;
+}
+a.menu_hl {
+	font-size: 14px;
+	color: Black;
+	text-decoration: none;
+}
+a.menu_hl:hover {
+	text-decoration: underline;
+	color: White;
+}
+a.menu_hl_on {
+	font-size: 14px;
+	text-decoration: underline;
+	color: #B81818;
+	vertical-align: bottom;
+}
+.view {
+	font-size: 14px;
+	color: #273940;
+	line-height: 18px;
+	text-align: left;
+}
+.sloupek {
+	font-size: 12px;
+	color: #273940;
+	line-height: 16px;
+	text-align: left;
+}
+.levy {
+	font-size: 10px;
+	color: #E2E5EA;
+	line-height: 14px;
+}
+.pravy {
+	font-size: 10px;
+	color: #5F5F5F;
+	line-height: 14px;
+}
+.down_text {
+	font-size: 14px;
+	color: #C7E793;
+	height: 50px;
+}
+.down_lista {
+	font-size: 12px;
+	color: #273940;
+	height: 50px;
+}
+a.down_menu {
+	font-size: 12px;
+	color: Gray;
+	text-align: left;
+	text-decoration: none;
+}
+a.down_menu:hover {
+	text-decoration: underline;
+	color: #D02730;
+}
+.obr {
+	border: 1px solid #CA2229;
+	margin-bottom: 10;
+	margin-left: 10;
+}
+.bunka {
+	text-align: center;
+	font-size: 10px;
+	color: #273940;
+	height: 185px;
+}
+.bunka_koupit {
+	text-align: center;
+	font-size: 11px;
+	color: Black;
+	padding-bottom: 3px;
+	padding-top: 3px;
+}
+.poznamka {
+	font-size: 10px;
+}
+a {
+	text-decoration: underline;
+	color: #BE3515;
+}
+a:hover {
+	text-decoration: none;
+	color: #3A3A3A;
+}
+input {
+	background-color: #DEDEDE;
+	border: 1px solid Gray;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;
+}
+textarea {
+	background-color: #DEDEDE;
+	border: 1px solid Gray;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;}
+select
+{
+	background-color: #DEDEDE;
+	border: 1px solid Gray;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;}
+option {
+	background-color: #DEDEDE;
+	border: 0px solid Gray;
+	font-size: 12px;
+	color: black;
+	font-weight: bold;}
+.kalendar {
+	font-size: 11px;
+}
+.kal {
+	color: #02603C;
+	text-decoration: none;
+}
+.kal:hover {
+	color: #EA2131;
+	text-decoration: underline;
+}
